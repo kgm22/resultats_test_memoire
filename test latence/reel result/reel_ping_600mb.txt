@@ -1,0 +1,49 @@
+keke@keke-Thin-GF63-12UDX:~$ ping -c 10 192.168.9.136 
+PING 192.168.9.136 (192.168.9.136) 56(84) bytes of data.
+64 bytes from 192.168.9.136: icmp_seq=1 ttl=63 time=2.01 ms
+64 bytes from 192.168.9.136: icmp_seq=2 ttl=63 time=1.44 ms
+64 bytes from 192.168.9.136: icmp_seq=3 ttl=63 time=1.61 ms
+64 bytes from 192.168.9.136: icmp_seq=4 ttl=63 time=1.41 ms
+64 bytes from 192.168.9.136: icmp_seq=5 ttl=63 time=1.44 ms
+64 bytes from 192.168.9.136: icmp_seq=6 ttl=63 time=1.78 ms
+64 bytes from 192.168.9.136: icmp_seq=7 ttl=63 time=1.45 ms
+64 bytes from 192.168.9.136: icmp_seq=8 ttl=63 time=1.44 ms
+64 bytes from 192.168.9.136: icmp_seq=9 ttl=63 time=1.37 ms
+64 bytes from 192.168.9.136: icmp_seq=10 ttl=63 time=1.40 ms
+
+--- 192.168.9.136 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 1.371/1.533/2.010/0.196 ms
+keke@keke-Thin-GF63-12UDX:~$ ping -c 10 192.168.9.136 
+PING 192.168.9.136 (192.168.9.136) 56(84) bytes of data.
+64 bytes from 192.168.9.136: icmp_seq=1 ttl=63 time=1.93 ms
+64 bytes from 192.168.9.136: icmp_seq=2 ttl=63 time=1.54 ms
+64 bytes from 192.168.9.136: icmp_seq=3 ttl=63 time=1.50 ms
+64 bytes from 192.168.9.136: icmp_seq=4 ttl=63 time=1.37 ms
+64 bytes from 192.168.9.136: icmp_seq=5 ttl=63 time=1.49 ms
+64 bytes from 192.168.9.136: icmp_seq=6 ttl=63 time=1.52 ms
+64 bytes from 192.168.9.136: icmp_seq=7 ttl=63 time=1.30 ms
+64 bytes from 192.168.9.136: icmp_seq=8 ttl=63 time=1.48 ms
+64 bytes from 192.168.9.136: icmp_seq=9 ttl=63 time=1.60 ms
+64 bytes from 192.168.9.136: icmp_seq=10 ttl=63 time=1.48 ms
+
+--- 192.168.9.136 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 1.299/1.520/1.928/0.158 ms
+keke@keke-Thin-GF63-12UDX:~$ ping -c 10 192.168.9.136 
+PING 192.168.9.136 (192.168.9.136) 56(84) bytes of data.
+64 bytes from 192.168.9.136: icmp_seq=1 ttl=63 time=1.57 ms
+64 bytes from 192.168.9.136: icmp_seq=2 ttl=63 time=1.60 ms
+64 bytes from 192.168.9.136: icmp_seq=3 ttl=63 time=1.47 ms
+64 bytes from 192.168.9.136: icmp_seq=4 ttl=63 time=1.45 ms
+64 bytes from 192.168.9.136: icmp_seq=5 ttl=63 time=1.49 ms
+64 bytes from 192.168.9.136: icmp_seq=6 ttl=63 time=1.92 ms
+64 bytes from 192.168.9.136: icmp_seq=7 ttl=63 time=1.37 ms
+64 bytes from 192.168.9.136: icmp_seq=8 ttl=63 time=1.43 ms
+64 bytes from 192.168.9.136: icmp_seq=9 ttl=63 time=1.49 ms
+64 bytes from 192.168.9.136: icmp_seq=10 ttl=63 time=1.61 ms
+
+--- 192.168.9.136 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 1.366/1.537/1.916/0.145 ms
+

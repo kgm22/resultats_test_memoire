@@ -1,0 +1,2 @@
+root@GL-SFT1200:~# tc qdisc replace dev eth0 root handle 1: tbf rate 600mbit burst 4mbit latency 50ms
+
